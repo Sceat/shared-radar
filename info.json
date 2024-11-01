@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "title": "shared-radar",
   "author": "Sceat",
-  "homepage": "@Sceat_",
+  "homepage": "https://github.com/Sceat/shared-radar",
   "description": "Allows sharing radar vision accross all teams, handy to play with Oarc while disabling friendly teams",
   "factorio_version": "2.0",
   "dependencies": ["base"],
