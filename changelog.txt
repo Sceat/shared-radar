@@ -1,0 +1,7 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2024-11-01
+  Features:
+    - Allow radars to chart for any teams
+  Bugfixes:
+    - licence, thumbnail, and infos
